@@ -34,6 +34,9 @@ CREATE TABLE `bookings` (
   `route_id` int(11) NOT NULL,
   `booking_date` int(11) NOT NULL,
   `seat_number` int(11) NOT NULL
+  FOREIGN KEY (passenger_id) REFERENCES passengers(passenger_id),
+    FOREIGN KEY (vehicle_id) REFERENCES vehicles(vehicle_id),
+    FOREIGN KEY (route_id) REFERENCES routes(route_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 -- --------------------------------------------------------
