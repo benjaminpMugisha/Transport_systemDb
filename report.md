@@ -1,7 +1,9 @@
 
 Transport System database project 
-Mugisha Prince Benjamin 26979
 
+Mugisha Prince Benjamin 26979
+Shema Joel 27407
+Murenzi Charles 27386
 
 ## 1. Tables Created
 - Passengers (with unique email and phone)
