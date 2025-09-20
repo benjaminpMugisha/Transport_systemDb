@@ -23,7 +23,8 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
---
+--Mugisha Prince Benjamin 26979
+
 -- Table structure for table `bookings`
 --
 
