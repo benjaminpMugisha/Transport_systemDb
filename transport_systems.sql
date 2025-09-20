@@ -22,7 +22,8 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
-
+--SHEMA Joel 27407
+--MURENZI Charles 27386
 --Mugisha Prince Benjamin 26979
 
 -- Table structure for table `bookings`
