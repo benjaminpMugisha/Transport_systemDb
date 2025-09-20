@@ -1,5 +1,8 @@
 
-Transport System database project
+Transport System database project 
+Mugisha Prince Benjamin 26979
+
+
 ## 1. Tables Created
 - Passengers (with unique email and phone)
 - Vehicles (with unique plate numbers)
